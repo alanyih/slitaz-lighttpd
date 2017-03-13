@@ -1,6 +1,4 @@
-# slitaz-lighttpd
-
-##LightTPD Web Server
+#SliTaz Web Server
 http://doc.slitaz.org/en:handbook:webserver
 
 ##About LightTPD
